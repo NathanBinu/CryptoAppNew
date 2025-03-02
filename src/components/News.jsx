@@ -28,9 +28,4 @@ const News = ({ simplified }) => {
   )
 }
 
-
-//Testing github desktop push 
-<Title className='news-title' level={4}>{news.name}</Title>
-
-
 export default News
